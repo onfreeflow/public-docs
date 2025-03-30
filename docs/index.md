@@ -12,17 +12,18 @@ FreeFlow provides:
 ## Repository Contents
 
 ### ✅ Core Documentation
-- Business Plan
-- Profit Expectations
-- Contributor Guide
-- Contributor and Partner Agreements
-- Governance
-- Code of Conduct
-- Brand Usage Guidelines
-- Roadmap
-- Terms of Service
-- Green Programs Policies (US + International)
-- License
+- [Business Plan](business-plan) — Understand FreeFlow's goals, strategy, and market position.
+- [Profit Expectations](profit-expectations) — Detailed projections for LCFS credits, subscriptions, and carbon credit revenues.
+- [Contributor Guide](contributor-guide) — How to contribute, collaborate, and engage with FreeFlow.
+- [Contributor and Partner Agreements](agreements) — Legal framework for participation.
+- [Governance](governance) — FreeFlow's open governance model and contributor voting structure.
+- [Code of Conduct](code-of-conduct) — Expectations for all contributors and collaborators.
+- [Brand Usage Guidelines](brand-usage) — Rules around FreeFlow’s logo, name, and visual identity.
+- [Roadmap](roadmap) — Upcoming features, priorities, and development plans.
+- [Terms of Service](terms-of-service) — Legal terms covering network usage, credits, and platform interactions.
+- [Green Programs Policies (US + International)](green-programs-policy-us) — LCFS, carbon credits, and other regulatory programs explained.
+- [License](license) — License details for FreeFlow's code and documentation.
+
 
 ### ✅ Technologies
 - Built on Open Network (RPL-1.5 Licensed)
