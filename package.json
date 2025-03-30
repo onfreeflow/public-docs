@@ -1,0 +1,17 @@
+{
+  "name": "freeflow-docs",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "docusaurus start",
+    "build": "docusaurus build",
+    "deploy": "docusaurus deploy",
+    "serve": "docusaurus serve",
+    "gh-deploy": "gh-pages -d build"
+  },
+  "dependencies": {
+    "@docusaurus/core": "^3.2.1",
+    "@docusaurus/preset-classic": "^3.2.1",
+    "gh-pages": "^6.0.0"
+  }
+}
