@@ -4,12 +4,11 @@
 const config = {
   title: 'FreeFlow Documentation',
   tagline: 'The Open Network for EVSE, Carbon Credits, and Contributor Profit Sharing',
-  url: 'https://docs.onfreeflow.com', // <-- your custom domain
-  baseUrl: '/',
+  url: 'https://onfreeflow.github.io',
+  baseUrl: '/public-docs/',
   favicon: 'assets/favicon.ico',
-
-  organizationName: 'onfreeflow', // GitHub org/user
-  projectName: 'docs',            // GitHub repo name
+  organizationName: 'onfreeflow',
+  projectName: 'public-docs',
 
   i18n: {
     defaultLocale: 'en',
@@ -22,9 +21,9 @@ const config = {
       {
         docs: {
           path: './docs',
-          routeBasePath: '/', // Docs are served at the site root
+          routeBasePath: '/',
           sidebarPath: require.resolve('./sidebars.js'),
-          editUrl: 'https://github.com/onfreeflow/docs/edit/main/',
+          editUrl: 'https://github.com/onfreeflow/public-docs/edit/master/',
           showLastUpdateAuthor: true,
           showLastUpdateTime: true,
         },
@@ -37,10 +36,10 @@ const config = {
 
   themeConfig: {
     navbar: {
-      title: 'FreeFlow',
+      title: 'FreeFlow Docs',
       logo: {
         alt: 'FreeFlow Logo',
-        src: 'assets/logo.png', // Replace with your logo
+        src: 'img/logo.png',
       },
       items: [
         { to: '/', label: 'Docs', position: 'left' },

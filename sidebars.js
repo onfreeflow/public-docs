@@ -19,7 +19,7 @@ module.exports = {
         'terms-of-service',
         'green-programs-policy-us',
         'green-programs-policy-international',
-        'license'
+        'license',
       ],
     },
   ],
