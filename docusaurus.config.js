@@ -7,14 +7,12 @@ const config = {
   url: 'https://onfreeflow.github.io',
   baseUrl: '/public-docs/',
   favicon: 'assets/favicon.ico',
-  organizationName: 'onfreeflow',
-  projectName: 'public-docs',
-
+  organizationName: 'FreeFlow',
+  projectName: 'Public Documentation',
   i18n: {
     defaultLocale: 'en',
     locales: ['en'],
   },
-
   presets: [
     [
       '@docusaurus/preset-classic',
@@ -26,6 +24,8 @@ const config = {
           editUrl: 'https://github.com/onfreeflow/public-docs/edit/master/',
           showLastUpdateAuthor: true,
           showLastUpdateTime: true,
+          sidebarCollapsible: true,
+          sidebarCollapsed: false
         },
         theme: {
           customCss: require.resolve('./assets/css/custom.css'),
@@ -39,7 +39,7 @@ const config = {
       title: 'FreeFlow Docs',
       logo: {
         alt: 'FreeFlow Logo',
-        src: 'img/logo.png',
+        src: 'assets/logo.png',
       },
       items: [
         { to: '/', label: 'Docs', position: 'left' },
