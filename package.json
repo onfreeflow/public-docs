@@ -1,7 +1,8 @@
 {
   "name": "freeflow-docs",
   "version": "1.0.0",
-  "private": true,
+  "private": false,
+  "homepage": "https://onfreeflow.github.io/public-docs",
   "scripts": {
     "start": "docusaurus start",
     "build": "docusaurus build",
