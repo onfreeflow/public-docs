@@ -6,7 +6,7 @@ const config = {
   tagline: 'The Open Network for EVSE, Carbon Credits, and Contributor Profit Sharing',
   url: 'https://onfreeflow.github.io',
   baseUrl: '/public-docs/',
-  favicon: 'assets/favicon.ico',
+  favicon: 'img/favicon.ico',
   organizationName: 'FreeFlow',
   projectName: 'Public Documentation',
   i18n: {
@@ -39,7 +39,7 @@ const config = {
       title: 'FreeFlow Docs',
       logo: {
         alt: 'FreeFlow Logo',
-        src: 'assets/logo.png',
+        src: 'img/logo.png',
       },
       items: [
         { to: '/', label: 'Docs', position: 'left' },
@@ -52,10 +52,10 @@ const config = {
         {
           title: 'Docs',
           items: [
-            { label: 'Business Plan', to: '/docs/FF-DOC-001-business-plan' },
-            { label: 'Profit Expectations', to: '/docs/FF-DOC-002-profit-expectations' },
-            { label: 'Contributor Guide', to: '/CONTRIBUTORS' },
-            { label: 'Governance', to: '/docs/FF-DOC-007-governance' },
+            { label: 'Business Plan', to: '/FF-DOC-001-business-plan' },
+            { label: 'Profit Expectations', to: '/FF-DOC-002-profit-expectations' },
+            { label: 'Contributor Guide', to: '/FF-DOC-012-contributors' },
+            { label: 'Governance', to: '/FF-DOC-007-governance' },
           ],
         },
         {
@@ -68,8 +68,8 @@ const config = {
         {
           title: 'Legal',
           items: [
-            { label: 'Terms of Service', to: '/docs/FF-DOC-005-terms-of-service' },
-            { label: 'License', to: '/license' },
+            { label: 'Terms of Service', to: '/FF-DOC-005-terms-of-service' },
+            { label: 'License', to: '/LICENSE' },
           ],
         },
       ],

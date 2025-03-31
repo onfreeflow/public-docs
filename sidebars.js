@@ -8,8 +8,8 @@ module.exports = {
       collapsible: true,
       collapsed: false,
       items: [
-        'business-plan',
-        'profit-expectations',
+        'FF-DOC-001-business-plan',
+        'FF-DOC-002-profit-expectations',
       ],
     },
     {
@@ -18,9 +18,9 @@ module.exports = {
       collapsible: true,
       collapsed: false,
       items: [
-        'contributor-guide',
-        'agreements',
-        'code-of-conduct',
+        'FF-DOC-006-contributor-guide',
+        'FF-DOC-003-agreements',
+        'FF-DOC-011-code-of-conduct',
       ],
     },
     {
@@ -29,8 +29,8 @@ module.exports = {
       collapsible: true,
       collapsed: false,
       items: [
-        'governance',
-        'roadmap',
+        'FF-DOC-007-governance',
+        'FF-DOC-010-roadmap',
       ],
     },
     {
@@ -39,10 +39,10 @@ module.exports = {
       collapsible: true,
       collapsed: false,
       items: [
-        'terms-of-service',
-        'green-programs-policy-us',
-        'green-programs-policy-international',
-        'license',
+        'FF-DOC-005-terms-of-service',
+        'FF-DOC-004-green-programs-policy-california-us',
+        'FF-DOC-005-green-programs-policy-international',
+        'LICENSE',
       ],
     },
   ],
