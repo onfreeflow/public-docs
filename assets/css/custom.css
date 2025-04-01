@@ -1,0 +1,44 @@
+/* --- FreeFlow Docs Theme --- */
+
+:root {
+  --ifm-color-primary: #0a84ff;
+  --ifm-color-primary-dark: #0060df;
+  --ifm-color-primary-darker: #0051b8;
+  --ifm-color-primary-light: #339cff;
+  --ifm-color-primary-lighter: #66b3ff;
+}
+
+body {
+  font-family: 'Inter', system-ui, sans-serif;
+}
+
+/* Sidebar */
+.menu__link {
+  font-weight: 500;
+}
+
+/* Headings */
+h1, h2, h3, h4 {
+  font-weight: 600;
+}
+
+/* Footer */
+.footer {
+  opacity: 0.9;
+  font-size: 0.85rem;
+}
+
+/* Tables */
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  border: 1px solid var(--ifm-color-emphasis-300);
+  padding: 0.5rem;
+}
+
+th {
+  background-color: var(--ifm-color-emphasis-100);
+}
