@@ -12,18 +12,18 @@ FreeFlow provides:
 ## Repository Contents
 
 ### ✅ Core Documentation
-- [Business Plan](./docs/FF-DOC-001-business-plan) — Understand FreeFlow's goals, strategy, and market position.
-- [Profit Expectations](./docs/FF-DOC-002-profit-expectations) — Detailed projections for LCFS credits, subscriptions, and carbon credit revenues.
-- [Contributor Guide](./docs/FF-DOC-006-contributor-guide) — How to contribute, collaborate, and engage with FreeFlow.
-- [Contributor and Partner Agreements](./docs/FF-DOC-006-contributor-guide) — Legal framework for participation.
-- [Governance](./docs/FF-DOC-007-governance) — FreeFlow's open governance model and contributor voting structure.
-- [Code of Conduct](./docs/FF-DOC-011-code-of-conduct) — Expectations for all contributors and collaborators.
-- [Brand Usage Guidelines](./docs/FF-DOC-011-code-of-conduct) — Rules around FreeFlow’s logo, name, and visual identity.
-- [Roadmap](./docs/FF-DOC-010-roadmap) — Upcoming features, priorities, and development plans.
-- [Terms of Service](./docs/FF-DOC-013-terms-of-service) — Legal terms covering network usage, credits, and platform interactions.
-- [Green Programs Policies (US + California)](./docs/FF-DOC-004-green-programs-policy-california-us) — LCFS, carbon credits, and other regulatory programs explained.
-- [Green Programs Policies (International)](./docs/FF-DOC-004-green-programs-policy-california-us) — LCFS, carbon credits, and other regulatory programs explained.
-- [License](./docs/LICENSE) — License details for FreeFlow's code and documentation.
+- [Business Plan](/FF-DOC-001-business-plan) — Understand FreeFlow's goals, strategy, and market position.
+- [Profit Expectations](/FF-DOC-002-profit-expectations) — Detailed projections for LCFS credits, subscriptions, and carbon credit revenues.
+- [Contributor Guide](/FF-DOC-006-contributor-guide) — How to contribute, collaborate, and engage with FreeFlow.
+- [Contributor and Partner Agreements](/FF-DOC-006-contributor-guide) — Legal framework for participation.
+- [Governance](/FF-DOC-007-governance) — FreeFlow's open governance model and contributor voting structure.
+- [Code of Conduct](/FF-DOC-011-code-of-conduct) — Expectations for all contributors and collaborators.
+- [Brand Usage Guidelines](/FF-DOC-011-code-of-conduct) — Rules around FreeFlow’s logo, name, and visual identity.
+- [Roadmap](/FF-DOC-010-roadmap) — Upcoming features, priorities, and development plans.
+- [Terms of Service](/FF-DOC-013-terms-of-service) — Legal terms covering network usage, credits, and platform interactions.
+- [Green Programs Policies (US + California)](/FF-DOC-004-green-programs-policy-california-us) — LCFS, carbon credits, and other regulatory programs explained.
+- [Green Programs Policies (International)](/FF-DOC-004-green-programs-policy-california-us) — LCFS, carbon credits, and other regulatory programs explained.
+- [License](/LICENSE) — License details for FreeFlow's code and documentation.
 
 
 ### ✅ Technologies
