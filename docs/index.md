@@ -1,3 +1,5 @@
+<!-- SPDX-License-Identifier: CC-BY-SA-4.0 -->
+
 # FreeFlow Documentation
 
 Welcome to the official documentation repository for **FreeFlow**, the open, contributor-powered EVSE network platform enabling carbon credit generation, LCFS participation, and community-driven profit sharing.
