@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.Dh1jimFm.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"FF-DOC-009-faq.md","filePath":"FF-DOC-009-faq.md"}'),r={name:"FF-DOC-009-faq.md"};function o(s,c,n,f,p,_){return a(),t("div")}const m=e(r,[["render",o]]);export{i as __pageData,m as default};
