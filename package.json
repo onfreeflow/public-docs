@@ -4,15 +4,13 @@
   "private": false,
   "homepage": "https://onfreeflow.github.io/public-docs",
   "scripts": {
-    "start": "docusaurus start",
-    "build": "docusaurus build",
-    "deploy": "docusaurus deploy",
-    "serve": "docusaurus serve",
-    "gh-deploy": "gh-pages -d build"
+    "docs:dev": "vitepress dev docs --port 3000",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs",
+    "deploy": "vitepress build docs && npx gh-pages -d docs/.vitepress/dist"
   },
   "dependencies": {
-    "@docusaurus/core": "^3.2.1",
-    "@docusaurus/preset-classic": "^3.2.1",
+    "vitepress":"^1.6.3",
     "gh-pages": "^6.0.0"
   }
 }

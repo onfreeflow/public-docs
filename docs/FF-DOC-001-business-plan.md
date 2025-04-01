@@ -1,7 +1,9 @@
 <!-- SPDX-License-Identifier: CC-BY-SA-4.0 -->
 
 ---
+id: FF-DOC-001-business-plan
 title: FreeFlow Business Plan
+sidebar_label: Business Plan
 version: v0.3
 status: Draft
 last_updated: 2025-03-30

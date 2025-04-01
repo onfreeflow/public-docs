@@ -1,3 +1,9 @@
+---
+id: LICENSE
+title: License
+sidebar_label: License
+---
+
 <!-- SPDX-License-Identifier: CC-BY-SA-4.0 -->
 
 # FreeFlow Licensing Overview
