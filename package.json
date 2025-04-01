@@ -7,7 +7,7 @@
     "docs:dev": "vitepress dev docs --port 3000",
     "docs:build": "vitepress build docs",
     "docs:preview": "vitepress preview docs",
-    "deploy": "vitepress build docs && npx gh-pages -d docs/.vitepress/dist"
+    "deploy": "npx vitepress build docs && npx gh-pages -d docs/.vitepress/dist"
   },
   "dependencies": {
     "vitepress":"^1.6.3",

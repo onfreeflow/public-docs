@@ -60,3 +60,4 @@ See:
 ---
 
 For general inquiries or partnership discussions, email: legal@onfreeflow.com
+<FooterInfo />

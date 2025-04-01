@@ -1,6 +1,12 @@
 import { defineConfig } from 'vitepress'
+import { version } from './package.json'
 
 export default defineConfig({
+  vite: {
+    define: {
+      __APP_VERSION__: JSON.stringify(version)
+    }
+  },
   title: 'FreeFlow Documentation',
   description: 'The Open Network for EVSE, Carbon Credits, and Contributor Profit Sharing',
   base: '/public-docs/', // required for gh-pages
