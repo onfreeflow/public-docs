@@ -1,0 +1,159 @@
+/* --- FreeFlow Docs Theme --- */
+
+:root {
+  --ifm-color-primary: #0a84ff;
+  --ifm-color-primary-dark: #0060df;
+  --ifm-color-primary-darker: #0051b8;
+  --ifm-color-primary-light: #339cff;
+  --ifm-color-primary-lighter: #66b3ff;
+}
+
+body {
+  font-family: 'Inter', system-ui, sans-serif;
+}
+
+/* Sidebar */
+.menu__link {
+  font-weight: 500;
+}
+
+/* Headings */
+h1, h2, h3, h4 {
+  font-weight: 600;
+}
+
+/* Footer */
+.footer {
+  opacity: 0.9;
+  font-size: 0.85rem;
+}
+
+/* Tables */
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+th, td {
+  border: 1px solid var(--ifm-color-emphasis-300);
+  padding: 0.5rem;
+}
+
+th {
+  background-color: var(--ifm-color-emphasis-100);
+}
+/*OVERWRITES*/
+/* Reset */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif;
+  line-height: 1.6;
+  color: #1a1a1a;
+  background: #f9f9f9;
+}
+
+/* Layout */
+header, footer {
+  background: #111;
+  color: #fff;
+  padding: 1rem 2rem;
+}
+
+header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+header h1 {
+  font-size: 1.5rem;
+  font-weight: bold;
+}
+
+nav a {
+  color: #ccc;
+  text-decoration: none;
+  margin-left: 1rem;
+  transition: color 0.2s ease;
+}
+
+nav a:hover {
+  color: #fff;
+}
+
+main {
+  max-width: 800px;
+  margin: 2rem auto;
+  background: #fff;
+  padding: 2rem;
+  border-radius: 8px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+}
+
+/* Headings */
+h1, h2, h3 {
+  margin: 1.5rem 0 0.5rem;
+  font-weight: 600;
+}
+
+h1 { font-size: 2rem; }
+h2 { font-size: 1.5rem; }
+h3 { font-size: 1.25rem; }
+
+/* Text */
+p, ul, ol {
+  margin: 0.5rem 0 1rem;
+}
+
+ul, ol {
+  padding-left: 1.5rem;
+}
+
+/* Links */
+a {
+  color: #007acc;
+  text-decoration: underline;
+}
+
+a:hover {
+  color: #005f99;
+}
+
+/* Footer */
+footer {
+  text-align: center;
+  font-size: 0.9rem;
+  margin-top: 4rem;
+  border-top: 1px solid #333;
+  padding-top: 1rem;
+}
+
+/* Code */
+code {
+  background: #eee;
+  padding: 0.2rem 0.4rem;
+  border-radius: 4px;
+  font-family: monospace;
+}
+
+/* Tables */
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-bottom: 1rem;
+}
+
+table th, table td {
+  border: 1px solid #ddd;
+  padding: 0.5rem;
+  text-align: left;
+}
+
+table th {
+  background: #f0f0f0;
+}
