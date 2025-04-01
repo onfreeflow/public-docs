@@ -9,6 +9,7 @@ export default defineConfig({
   },
   title: 'FreeFlow Documentation',
   description: 'The Open Network for EVSE, Carbon Credits, and Contributor Profit Sharing',
+  srcDir: './docs',
   base: '/public-docs/', // required for gh-pages
   head: [['link', { rel: 'icon', href: '/public-docs/assets/favicon.ico' }]],
   themeConfig: {
