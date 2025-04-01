@@ -1,0 +1,22 @@
+{
+  "id": "FF-DOC-001-business-plan",
+  "title": "FF-DOC-001-business-plan",
+  "description": "---",
+  "source": "@site/docs/FF-DOC-001-business-plan.md",
+  "sourceDirName": ".",
+  "slug": "/FF-DOC-001-business-plan",
+  "permalink": "/public-docs/FF-DOC-001-business-plan",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/onfreeflow/public-docs/edit/master/docs/FF-DOC-001-business-plan.md",
+  "tags": [],
+  "version": "current",
+  "lastUpdatedBy": "Author",
+  "lastUpdatedAt": 1539502055000,
+  "frontMatter": {},
+  "sidebar": "docs",
+  "next": {
+    "title": "FF-DOC-002-profit-expectations",
+    "permalink": "/public-docs/FF-DOC-002-profit-expectations"
+  }
+}
